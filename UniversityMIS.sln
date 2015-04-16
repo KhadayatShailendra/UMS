@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMS.Web", "UMS.Web\UMS.Web.csproj", "{341F28DE-5186-46BA-A554-B07FDA23150C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMS.Common", "UMS.Common\UMS.Common.csproj", "{AC184A9D-C4E3-4A67-B3FF-48937F9F273C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMS.Data", "UMS.Data\UMS.Data.csproj", "{B7102185-8758-4F2E-BD86-CD90341BA084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{341F28DE-5186-46BA-A554-B07FDA23150C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341F28DE-5186-46BA-A554-B07FDA23150C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341F28DE-5186-46BA-A554-B07FDA23150C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341F28DE-5186-46BA-A554-B07FDA23150C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC184A9D-C4E3-4A67-B3FF-48937F9F273C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC184A9D-C4E3-4A67-B3FF-48937F9F273C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC184A9D-C4E3-4A67-B3FF-48937F9F273C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC184A9D-C4E3-4A67-B3FF-48937F9F273C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7102185-8758-4F2E-BD86-CD90341BA084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7102185-8758-4F2E-BD86-CD90341BA084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7102185-8758-4F2E-BD86-CD90341BA084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7102185-8758-4F2E-BD86-CD90341BA084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

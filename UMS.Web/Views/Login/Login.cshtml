@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <form method="post" action="Login/Validate">
+        <div>
+            <input type="hidden" value="Id" />
+            <label>UserName</label>  <input type="text" name="UserName" />
+            <label>Password</label>   <input type="password" name="Password" />
+            <input type="submit" title="Login" />
+        </div>
+    </form>
+</body>
+</html>
